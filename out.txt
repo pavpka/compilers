@@ -1,0 +1,41 @@
+VAR - lineNumber: 1
+IDENTIFIER - a - lineNumber: 1
+COLON - lineNumber: 1
+TYPE - Boolean - lineNumber: 1
+SEMICOLON - lineNumber: 1
+IDENTIFIER - b - lineNumber: 1
+COLON - lineNumber: 1
+TYPE - Decimal - lineNumber: 1
+SEMICOLON - lineNumber: 1
+IDENTIFIER - aaaaaa - lineNumber: 1
+COLON - lineNumber: 1
+TYPE - Decimal - lineNumber: 1
+SEMICOLON - lineNumber: 1
+NEWLINE - lineNumber: 1
+BEGIN_PROGRAM - lineNumber: 2
+NEWLINE - lineNumber: 2
+IF - lineNumber: 3
+OPEN_BRACE - lineNumber: 3
+UNI_LOG_OPERATOR - ! - lineNumber: 3
+IDENTIFIER - a - lineNumber: 3
+CLOSE_BRACE - lineNumber: 3
+IDENTIFIER - b - lineNumber: 3
+ASSIGMENT - lineNumber: 3
+UNI_MATH_OPERATOR - - - lineNumber: 3
+CONST - 1 - lineNumber: 3
+NEWLINE - lineNumber: 3
+COMMENT_START - lineNumber: 4
+COMMENT -  some comment  - lineNumber: 4
+COMMENT_END - lineNumber: 4
+NEWLINE - lineNumber: 4
+IDENTIFIER - c - lineNumber: 5
+ASSIGMENT - lineNumber: 5
+OPEN_BRACE - lineNumber: 5
+IDENTIFIER - b - lineNumber: 5
+BIN_MATH_OPERATOR - + - lineNumber: 5
+CONST - 3 - lineNumber: 5
+CLOSE_BRACE - lineNumber: 5
+BIN_MATH_OPERATOR - ^ - lineNumber: 5
+CONST - 5 - lineNumber: 5
+NEWLINE - lineNumber: 5
+END_PROGRAM - lineNumber: 6

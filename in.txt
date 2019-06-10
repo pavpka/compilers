@@ -1,0 +1,6 @@
+Var a:Boolean; b:Decimal; aaaaaa:Decimal;
+Begin
+IF (!a) b=-1
+{ some comment }
+c=(b+3)^5
+End
